@@ -1,0 +1,7 @@
+[ip]
+172.31.21.56
+172.31.30.220
+
+[hosts]
+ip-172-31-21-56.us-east-2.compute.internal
+ip-172-31-30-220.us-east-2.compute.internal
